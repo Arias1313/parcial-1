@@ -3,4 +3,4 @@ elixirc util.ex
 elixirc datos.exs
 elixirc reportes.exs
 elixirc validacion.exs
-elicirc liquidacion.exs
+elixirc liquidacion.exs
